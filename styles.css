@@ -1,0 +1,15 @@
+body{
+   font-family:system-ui, -apple-system, 'segoe uI';
+   padding:0;
+    color:#2e0969;
+background-color:#902121;
+margin:0;
+}
+.container{
+max-width: 600px;
+margin:0px auto;
+padding:20px 40px;
+background-color:#7f5ed2;
+border-radius: 8px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
